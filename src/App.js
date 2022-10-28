@@ -45,7 +45,7 @@ const App = () => {
   <Layout className="page">
     <Header>
       <div>
-       <h1 className='logo'>Jokes Norris</h1>  
+       <h1 className='logo'>Joke Norris</h1>  
       </div>
     </Header>
     <Content
@@ -91,7 +91,7 @@ const App = () => {
         textAlign: 'center',
       }}
     >
-      Jokes Norris
+      Joke Norris
     </Footer>
   </Layout>
 )};
