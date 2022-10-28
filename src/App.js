@@ -45,7 +45,7 @@ const App = () => {
   <Layout className="page">
     <Header>
       <div>
-       <h1 className='logo'>Joke Norris</h1>  
+        <h1 className='logo'>Joke Norris</h1>
       </div>
     </Header>
     <Content
